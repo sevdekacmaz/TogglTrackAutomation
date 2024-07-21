@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 public class UserTests extends BaseTest {
-    //Deneme
+
     LoginPage loginPage = new LoginPage();
     HomePage homePage = new HomePage();
 
